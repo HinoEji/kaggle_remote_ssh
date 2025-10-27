@@ -1,5 +1,4 @@
-```markdown
-**For Git Bash / Linux only:**
+
 ```bash
 # Make script executable
 chmod +x script.bash
